@@ -1,0 +1,3 @@
+function printPolicy() {
+    window.print();
+}
